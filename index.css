@@ -1,0 +1,42 @@
+body {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  background-color: dodgerblue;
+}
+
+h1.title {
+  text-align: center;
+  padding-top: 50px;
+}
+
+div.main {
+  text-align: center;
+  padding-top: 50px;
+}
+
+div.child {
+  padding-top: 25px;
+}
+
+h3.result {
+  padding-top: 50px;
+}
+
+div.devinfo {
+  text-align: center;
+  padding-top: 50px;
+}
+
+input {
+  width: 200px;
+  height: 25px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+button {
+  width: 200px;
+  height: 25px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
